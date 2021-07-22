@@ -1,12 +1,22 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Notes2Self"
+subtitle: "Documenting my journey to learn R"
+description: "Learning is fun but can also be challenging, and learning a programming language is no exception. 
+Some say that you learn better when you try to explain things to others (even if  “others” is your future self) and starting a  blog is a good way of doing that. So, here I am. 
+
+<br></br>
+
+A word of caution, this is only _my own notes to myself_ so if you are looking for in-depth knowledge by an official R superhero, this is  probably not what you are looking for.
+
+<br></br>
+
+<small>Photo by Brett Jordan on Unsplash</small>
+"
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/revoir.jpg
-image_left: true
-text_align_left: false
+  - img/lifetime-learner.jpg
+image_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
@@ -15,5 +25,4 @@ action_type: text # text, button
 type: home
 ---
 
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
+\*\* index doesn't contain a body, just front matter above. See index.html in the layouts folder \*\*
