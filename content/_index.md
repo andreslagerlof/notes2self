@@ -1,8 +1,7 @@
 ---
 title: "Notes2Self"
 subtitle: "Documenting my journey to learn R"
-description: "Learning is fun but can also be challenging, and learning a programming language is no exception. 
-Some say that you learn better when you try to explain things to others (even if  “others” is your future self) and starting a  blog is a good way of doing that. So, here I am. 
+description: "Learning is fun but can also be challenging. Some say that you learn better when you try to explain things to others (even if  “others” is your future self). So, here I am. 
 
 <br></br>
 
