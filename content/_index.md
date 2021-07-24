@@ -9,8 +9,8 @@ A word of caution, this is only _my own notes to myself_ so if you are looking f
 
 <br></br>
 
-<small>Photo by Brett Jordan on Unsplash</small>
-"
+<small>Photo by Brett Jordan on Unsplash</small>"
+
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/lifetime-learner.jpg
@@ -25,3 +25,4 @@ type: home
 ---
 
 \*\* index doesn't contain a body, just front matter above. See index.html in the layouts folder \*\*
+
