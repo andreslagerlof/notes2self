@@ -1,7 +1,7 @@
 ---
 title: Contact
 name: Contact Us Form
-description: "If you want to reach me, please send a Twitter direct message. I will try to respond within reasonable time."
+description: "If you want to reach me, please send a Twitter direct message or use this form. I will try to respond within reasonable time."
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
