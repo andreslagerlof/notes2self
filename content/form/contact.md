@@ -7,10 +7,10 @@ draft: false
 url: contact
 type: form
 layout: split-right # split-right or split-left
-submit_button_label: Send Message
-show_social_links: true # specify social accounts in site config
-show_poweredby_formspree: true
-formspree_form_id: andres.lagerlof@gmail.com
+submit_button_label: Send Message # Send Message
+show_social_links: true # specify social accounts in site config true/false
+show_poweredby_formspree: true # true/false
+formspree_form_id: xleawkjg
 ---
 
 ** Contact page don't contain a body, just the front matter above.
