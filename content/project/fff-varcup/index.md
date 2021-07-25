@@ -17,7 +17,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
+  url: https://fff-varcup.netlify.app/index.html
 - icon: github
   icon_pack: fab
   name: code
